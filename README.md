@@ -1,5 +1,8 @@
 # Hi, im Zidan👋
 
+## Technology
+[![Javascript](https://img.shields.io/badge/javascript-grey?logo=javascript)]
+
 [![Linkedin Badge](https://img.shields.io/badge/linked%20in-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naufalzaid17/)
 
 - 🤖 i'm Data Science and Machine Learning Enthusiast
