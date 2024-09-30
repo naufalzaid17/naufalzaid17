@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linked%20in-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naufalzaid17/)
 
-🤖 i'm Data Science and Machine Learning Enthusiast
-📖 i'm Fresh Graduate Bachelor of Informatics, School of Computing, Telkom University
+- 🤖 i'm Data Science and Machine Learning Enthusiast
+- 📖 i'm Fresh Graduate Bachelor of Informatics, School of Computing, Telkom University
 
 <!--
 **naufalzaid17/naufalzaid17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
