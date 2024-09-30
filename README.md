@@ -1,6 +1,6 @@
 # Hi,Welcome to my Page👋
 
-## Technology
+*Technology*
 ![Javascript](https://img.shields.io/badge/javascript-grey?logo=javascript)
 ![Python](https://img.shields.io/badge/python-grey?logo=Python)
 ![HTML5](https://img.shields.io/badge/HTML5-grey?logo=HTML5)
@@ -14,7 +14,7 @@
 - 🤖 i'm Data Science and Machine Learning Enthusiast
 - 📖 i'm Fresh Graduate Bachelor of Informatics, School of Computing, Telkom University
 
-## Hit me Here 👊
+ *Connect With Me 👊*
 [![Linkedin Badge](https://img.shields.io/badge/linked%20in-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naufalzaid17/)
 
 
